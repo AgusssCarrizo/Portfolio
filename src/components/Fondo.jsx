@@ -8,7 +8,7 @@ export default function Home() {
             autoPlay
             loop
             muted
-            src="./src/assets/video.mp4"
+            src="https://res.cloudinary.com/diotu9grj/video/upload/v1708667992/video_ezbzlk.mp4"
             className="absolute top-0 left-0 w-full h-full object-cover -z-10"
          />
 

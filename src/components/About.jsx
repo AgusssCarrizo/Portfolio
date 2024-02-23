@@ -6,7 +6,7 @@ export default function About() {
          <h1 class="text-3xl text-white font-bold">Estamos trabajando</h1>
          <div className="w-52 flex items-center justify-center">
             <img
-               src="src/assets/Trabajando.jpg"
+               src="https://res.cloudinary.com/diotu9grj/image/upload/v1708668003/Trabajando_l4gztv.jpg"
                alt=""
                className="w-32 h-32 rounded-2xl"
             />
